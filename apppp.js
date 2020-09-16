@@ -5,7 +5,7 @@ function show()
 
 var ghy;
 ghy=document.getElementById("name").value;
-document.getElementById("bkchodi").innerHTML="Hello " + ghy;
+document.getElementById("bak").innerHTML="Hello " + ghy;
 }
 function letusplay()
 {
